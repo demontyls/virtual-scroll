@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/virtual-scroll/static/css/main.b9a8f625.css",
+    "main.js": "/virtual-scroll/static/js/main.ac63f565.js",
+    "index.html": "/virtual-scroll/index.html",
+    "main.b9a8f625.css.map": "/virtual-scroll/static/css/main.b9a8f625.css.map",
+    "main.ac63f565.js.map": "/virtual-scroll/static/js/main.ac63f565.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9a8f625.css",
+    "static/js/main.ac63f565.js"
+  ]
+}
