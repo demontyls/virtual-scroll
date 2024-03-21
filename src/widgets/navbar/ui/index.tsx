@@ -4,8 +4,8 @@ import '../style.scss'
 
 const Navbar = () => {
   return (
-    <nav className="navbar navbar-light fixed-top bg-light px-3">
-      <NavLink className="navbar-brand" to="/home">Home</NavLink>
+    <nav className="navbar navbar-light fixed-top px-3">
+      <NavLink className="navbar-brand" to="virtual-scroll">Home</NavLink>
       <NavLink className="navbar-brand" to="/post">Detail post</NavLink>
     </nav>
   );

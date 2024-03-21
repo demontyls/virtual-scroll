@@ -8,8 +8,8 @@ function App() {
   return (
     <div className="main new">
       <Routes>
-        <Route path={'/'} element={ <Layout/> }>
-          <Route path={'home'} element={ <Home /> } />
+        <Route path={''} element={ <Layout/> }>
+          <Route path={'virtual-scroll'} element={ <Home /> } />
           <Route path={`post/:id`} element={ <Post/> } />
           <Route path={`post`} element={ <Post/> } />
         </Route>

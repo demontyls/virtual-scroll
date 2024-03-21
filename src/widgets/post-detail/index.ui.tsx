@@ -18,7 +18,7 @@ const PostDetail = () => {
     <>
       <div className="post">
         <div className="post__header">
-          <Link to="/home" className="btn btn-primary btn-sm">Назад</Link>
+          <Link to="/virtual-scroll" className="btn btn-primary btn-sm">Назад</Link>
         </div>
         <div className="card p-2">
           { id ?
